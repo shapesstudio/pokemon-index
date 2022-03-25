@@ -18,7 +18,7 @@
 </script>
 
 <script>
-	import PokemanCard from '../Components/PokemanCard.svelte';
+	import PokemanCard from '../Components/pokemanCard.svelte';
 	export let pokemon;
 
 	let searchTerm = '';
